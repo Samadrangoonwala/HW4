@@ -19,7 +19,7 @@
   </a>
 <h2>Tiff file can be found at</h2>
 
-    <a href="16"></a>
+<a href="Samadrangoonwala/HW4/16"></a>
 
 https://github.com/Samadrangoonwala/HW4/tree/main/16
 
