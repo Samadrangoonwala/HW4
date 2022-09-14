@@ -17,7 +17,7 @@
   <a href>
   <img src="HW4.png" alt="Georefrenced map" style="width 300px; height:300px;">
   </a>
-<h2>Tiff file can be found at</h2>
+<h2>Tiff file can be found at(could not figure out how to get the HTML to link to folder directly)</h2>
 
 <a href="HW4/16/"></a>
 
